@@ -1,4 +1,4 @@
-date,category_id,revenue_retail,revenue_market
+date,category_id.,revenue_retail,revenue_market
 2024-01-01,10,"690459,35","4760708,3"
 2024-01-02,5,"1863055,36","18740074,69"
 2024-01-03,1,"981606,12","5619492,32"
